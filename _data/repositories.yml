@@ -1,14 +1,6 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - conserelena/OSU_plankton_lab_ISIIS
+  - conserelena/larval_pvet
+  - conserelena/NCC_plankton_hypoxia
