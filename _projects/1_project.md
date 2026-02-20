@@ -1,81 +1,34 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Hypoxia and zooplankton in the Northern California Current
+description: 
+img: assets/img/thebiggest.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Eastern boundary current upwelling systems are some of the most productive systems on the planet. Deep, nutrient rich water is advected into shallow shelf regions when prevailing winds drive Ekman transport of surface waters offshore. This nutrient-rich water supports high primary production, and sizeable fisheries in this region. However, the nutrient-rich source water is also relatively oxygen poor. Respiration of the sinking excess primary production near the seafloor drives dissolved oxygen concentration near to the physiological limit of marine organisms. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hypoxia_ncc.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Image source Chan et al 2019 "The Dynamics and Impact of Ocean Acidification and Hypoxia: Insights from Sustained Investigations in the Northern California Current Large Marine Ecosystem" 
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The effect of low oxygen - colloquially called "hypoxia" - on benthic and demersal organisms can be dramatic and apparent. However, much less is known about how oxygen influences planktonic organisms. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In the northern California Current system, off the northwest coast of the United States, hypoxia occurs seasonally during the summer upwelling season. 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The goal of the first chapter of my PhD dissertation is to quantify the effects of low oxygen on zooplankton in the northern California Current. I am using data from the [In situ Ichthyoplankton Imaging System (ISIIS)](https://hmsc.oregonstate.edu/planktonlab/research/sampling-technologies/isiis), deployed during the summer in 2018, 2019, 2022, and 2023.  
 
-{% raw %}
+My aims are: 
+- understand the abundance and distribution of important zooplankton taxa in relation to low oxygen.
+- explore the indirect effects of how predation pressure and prey availability changes for larval fishes under different degrees of hypoxic stress.
+- test hypotheses about the structure and functioning of zooplankton food webs in hypoxic and normoxic conditions. 
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
