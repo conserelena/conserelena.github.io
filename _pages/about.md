@@ -27,6 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="about-hero" style="background-image: url('{{ '/assets/img/header_image.jpg' | relative_url }}');">
+  <div class="about-hero__overlay">
+    <h1>{{ site.first_name }} {{ site.last_name }}</h1>
+    <p>PhD Candidate • Oregon State University</p>
+  </div>
+</div>
+
+
 *This website is still under construction! Stay tuned for updates in the near future.*
 
 I am a fifth year PhD Candidate in the Oregon State Department of Integrative Biology. I am a member of the [Plankton Ecology Lab](https://hmsc.oregonstate.edu/planktonlab), based at Hatfield Marine Science Center in Newport, Oregon. 
