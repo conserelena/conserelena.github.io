@@ -2,7 +2,7 @@
   height: 280px;
   border-radius: 18px;
   background-size: cover;
-  background-position: center;
+  background-position: center 60%;
   margin-bottom: 1.5rem;
   overflow: hidden;
 }

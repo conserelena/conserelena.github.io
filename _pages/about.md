@@ -29,7 +29,6 @@ latest_posts:
 
 <div class="about-hero" style="background-image: url('{{ '/assets/img/header_image.jpg' | relative_url }}');">
   <div class="about-hero__overlay">
-    <h1>{{ site.first_name }} {{ site.last_name }}</h1>
     <p>PhD Candidate • Oregon State University</p>
   </div>
 </div>
