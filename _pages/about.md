@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+*This website is still under construction! Stay tuned for updates in the near future.*
+
 I am a fifth year PhD Candidate in the Oregon State Department of Integrative Biology. I am a member of the [Plankton Ecology Lab](https://hmsc.oregonstate.edu/planktonlab), based at Hatfield Marine Science Center in Newport, Oregon. 
 
 My primary research interests are **plankton imaging systems**, **zooplankton ecology**, and **early life histories of fishes**. 
