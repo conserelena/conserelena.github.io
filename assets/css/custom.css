@@ -1,26 +1,35 @@
 .about-hero {
-  height: 280px;
+  height: 320px;
   border-radius: 18px;
   background-size: cover;
   background-position: center 60%;
-  margin-bottom: 1.5rem;
+  margin: 0 0 2rem 0;   /* cleaner spacing */
+  max-width: 100%;
   overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
 }
 
-.about-hero__overlay {
+.about-hero-overlay {
   height: 100%;
-  padding: 1.5rem;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  background: linear-gradient(to top, rgba(0,0,0,0.55), rgba(0,0,0,0.0));
+
+  /* smooth fade */
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.05) 0%,
+    rgba(0,0,0,0.35) 55%,
+    rgba(255,255,255,1) 100%
+  );
 }
 
-.about-hero__overlay h1 {
+.about-hero-overlay h1 {
   margin: 0;
 }
 
-.about-hero__overlay p {
+.about-hero-overlay p {
   margin: 0.25rem 0 0 0;
   opacity: 0.95;
 }
