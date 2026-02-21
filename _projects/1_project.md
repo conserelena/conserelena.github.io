@@ -4,7 +4,7 @@ title: Hypoxia and zooplankton in the Northern California Current
 description: 
 img: assets/img/thebiggest.jpg
 importance: 1
-category: research
+category:
 related_publications: false
 ---
 
