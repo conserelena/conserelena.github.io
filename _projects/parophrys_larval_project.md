@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drivers of larval growth in _Parophrys vetulus_
+title: Drivers of larval growth in <em>Parophrys vetulus</em>
 description:
 img: assets/img/post-flexion.jpg
 importance: 2
