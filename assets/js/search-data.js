@@ -416,7 +416,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/parophrys_juvenile_project/";
             },},{id: "projects-drivers-of-larval-growth-in-parophrys-vetulus",
-          title: 'Drivers of larval growth in _Parophrys vetulus_',
+          title: 'Drivers of larval growth in Parophrys vetulus',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/parophrys_larval_project/";
