@@ -111,17 +111,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/code-diff/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
       },{id: "post-a-post-with-vega-lite",
         
           title: "a post with vega lite",
@@ -417,11 +406,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hypoxia_plankton_project/";
-            },},{id: "projects-growth-and-diet-of-juvenile-english-sole-in-coastal-and-estuarine-nursery-grounds",
-          title: 'Growth and diet of juvenile English sole in coastal and estuarine nursery grounds...',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/parophrys_juvenile_project/";
             },},{id: "projects-drivers-of-larval-growth-in-parophrys-vetulus",
           title: 'Drivers of larval growth in Parophrys vetulus',
           description: "",
