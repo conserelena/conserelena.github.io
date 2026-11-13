@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-plankton-icons",
+          title: "Plankton Icons",
+          description: "A visual collection of plankton icons.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/plankton-icons/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
