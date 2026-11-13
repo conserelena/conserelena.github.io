@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-plankton-icons",
           title: "Plankton Icons",
-          description: "A visual collection of plankton icons.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/plankton-icons/";
