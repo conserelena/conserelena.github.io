@@ -37,8 +37,27 @@ latest_posts:
 
 *This website is still under construction! Stay tuned for updates in the near future.*
 
-I am a fifth year PhD Candidate in the Oregon State Department of Integrative Biology. I am a member of the [Plankton Ecology Lab](https://hmsc.oregonstate.edu/planktonlab), based at Hatfield Marine Science Center in Newport, Oregon. 
+I recently defended my PhD at Oregon State University in the Department of Integrative Biology. At Oregon State, I was advised by Dr. Su Sponaugle in the Plankton Ecology Lab, located at Hatfield Marine Science Center. 
 
 My primary research interests are **plankton imaging systems**, **zooplankton ecology**, and **early life histories of fishes**. 
 
-I am currently seeking post-doctoral scholar positions after my anticipated PhD Defense date in September 2026. 
+
+<h2>PhD Defense</h2>
+
+<p>My PhD defense was recorded and is available to watch on YouTube!</p>
+
+<div style="max-width: 700px; margin: 20px auto;">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+    <iframe
+      src="https://www.youtube.com/embed/yB7HYpsspOc"
+      title="Elena Conser PhD Defense – September 10, 2026"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+
