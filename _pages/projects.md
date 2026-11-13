@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
 description: Current Research and Outreach
 nav: true
@@ -8,6 +8,9 @@ nav_order: 3
 display_categories: 
 horizontal: false
 ---
+
+Please note that this website is still under construction! Stay tuned for updates. 
+
 
 <!-- pages/projects.md -->
 <div class="projects">

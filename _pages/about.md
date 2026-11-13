@@ -1,17 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>email: consere@oregonstate.edu</p>
-    <p>2030 Marine Science Dr.</p>
-    <p>Newport, OR, 97365</p>
+  image:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,8 +23,7 @@ latest_posts:
 
 <div class="about-hero" style="background-image: url('{{ '/assets/img/header_image.jpg' | relative_url }}');">
   <div class="about-hero__overlay">
-    <h1>{{ site.first_name }} {{ site.last_name }}</h1>
-    <p>PhD Candidate • Oregon State University</p>
+    <h1>Elena Conser, PhD</h1>
   </div>
 </div>
 
@@ -60,4 +53,36 @@ My primary research interests are **plankton imaging systems**, **zooplankton ec
 </div>
 
 
+<hr style="margin: 50px 0 30px;">
 
+
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 40px auto;">
+
+  <!-- Profile photo -->
+  <img
+    src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+    alt="Elena Conser"
+    style="width: 180px !important; height: 180px !important; max-width: 180px !important; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+  >
+
+  <!-- Contact information -->
+  <div style="flex: 0 1 350px; min-width: 200px;">
+    <h2>Contact</h2>
+
+    <p>
+      <strong>Email:</strong>
+      <a href="mailto:consere@oregonstate.edu">
+        consere@oregonstate.edu
+      </a>
+    </p>
+
+    <p>
+      Hatfield Marine Science Center<br>
+      Oregon State University<br>
+      2030 Marine Science Dr.<br>
+      Newport, OR 97365
+    </p>
+  </div>
+
+</div>

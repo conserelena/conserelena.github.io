@@ -9,6 +9,10 @@ nav_order: 4
 
 A visual collection of plankton icons. I drew these while preparing for my PhD defense. All images were created by referencing real, in situ ISIIS imagery. 
 
+Please feel empowered to save and use these icons for all your plankton needs! 
+
+NOTE: If you are viewing this website with a **light** theme, you may not be able to view the icons! 
+
 <div class="plankton-icons-grid">
   {% for icon in site.data.plankton_icons %}
     <figure class="plankton-icon-card">
