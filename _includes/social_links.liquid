@@ -1,0 +1,17 @@
+{% if site.email %}
+  <a href="mailto:{{ site.email }}" title="Email" aria-label="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+{% endif %}
+
+{% if site.github_username %}
+  <a href="https://github.com/{{ site.github_username }}" title="GitHub" aria-label="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+{% endif %}
+
+{% if site.orcid_id %}
+  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID" aria-label="ORCID">
+    <i class="ai ai-orcid"></i>
+  </a>
+{% endif %}
