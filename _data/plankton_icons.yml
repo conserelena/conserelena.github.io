@@ -1,0 +1,77 @@
+# Plankton Icons
+# Each entry is shown on the "Plankton Icons" page.
+# To add an icon, put the image in assets/img/plankton_icons/ and add
+# its filename and display name below.
+
+- file: acantharia.png
+  name: Acantharia
+- file: acantharia_big_center.png
+  name: Acantharia
+- file: protist.png
+  name: Protist
+- file: protist_cercozoa.png
+  name: Cercozoan protist
+- file: protist_chain.png
+  name: Protist chain
+- file: calanus.png
+  name: Calanus
+- file: copepod3.png
+  name: Copepod
+- file: large_copepod.png
+  name: Large copepod
+- file: oithona.png
+  name: Oithona
+- file: Euphausiid.png
+  name: Euphausiid
+- file: furcilia.png
+  name: Furcilia
+- file: carideanshrimp.png
+  name: Caridean shrimp
+- file: tomopterid2.png
+  name: Tomopterid
+- file: sagitta.png
+  name: Sagitta
+- file: chaetognath_curve.png
+  name: Chaetognath
+- file: ctenophore_lobate.png
+  name: Lobate ctenophore
+- file: tiny_cteno.png
+  name: Ctenophore
+- file: tiny_cydippid.png
+  name: Cydippid ctenophore
+- file: mitrocoma.png
+  name: Mitrocoma
+- file: eutonina.png
+  name: Eutonina
+- file: aegina.png
+  name: Aegina
+- file: Clione.png
+  name: Clione
+- file: prayidae.png
+  name: Prayidae
+- file: doliolid_solo.png
+  name: Doliolid
+- file: doliolid_budding.png
+  name: Budding doliolid
+- file: appendicularian.png
+  name: Appendicularian
+- file: appendicularian_2.png
+  name: Appendicularian
+- file: Cavonliniidae.png
+  name: Cavoliniidae
+- file: brachiolaria_copy.png
+  name: Brachiolaria larva
+- file: ophiuroid_pluteus.png
+  name: Ophiuroid pluteus
+- file: tiny_larva.png
+  name: Larva
+- file: sebastes_larvae.png
+  name: Sebastes larva
+- file: anchovy.png
+  name: Anchovy larva
+- file: trachipteris.png
+  name: Trachipteris
+- file: 100227_image1.png
+  name: Example ISIIS image
+- file: Image_9-1-26_at_17.23.png
+  name: Plankton assemblage
