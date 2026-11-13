@@ -2,12 +2,12 @@
 layout: page
 title: Plankton Icons
 permalink: /plankton-icons/
-description: A visual collection of plankton icons.
+description: 
 nav: true
 nav_order: 4
 ---
 
-A visual collection of plankton icons.
+A visual collection of plankton icons. I drew these while preparing for my PhD defense. All images were created by referencing real, in situ ISIIS imagery. 
 
 <div class="plankton-icons-grid">
   {% for icon in site.data.plankton_icons %}

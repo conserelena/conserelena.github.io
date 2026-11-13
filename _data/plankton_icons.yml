@@ -67,11 +67,6 @@
   name: Larva
 - file: sebastes_larvae.png
   name: Sebastes larva
-- file: anchovy.png
-  name: Anchovy larva
 - file: trachipteris.png
   name: Trachipteris
-- file: 100227_image1.png
-  name: Example ISIIS image
-- file: Image_9-1-26_at_17.23.png
-  name: Plankton assemblage
+
